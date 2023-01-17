@@ -13,7 +13,7 @@ Under no circumstances will we be responsible or liable for any claims, damages,
 <hr>
 
 ## ToDo
-Check if data exist in the DataBase and then skip that dates
+Filter only USDT Perpetual Futures, skip Inverse Perpetual.
 
 ## Contacts
 Feel free to contact me via Discord: ryuryu#4087
