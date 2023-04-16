@@ -5,7 +5,7 @@ Script to Save all coins from Bybit crypto exchange to the SQL database
 
 ## Requirements
 
-<code>pip install pybit</code>
+<code>pip install pybit==2.4.1</code>
 
 ## ToDo
 Filter only USDT Perpetual Futures, skip Inverse Perpetual.
